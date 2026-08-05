@@ -1,0 +1,3 @@
+- [ ] Разобраться с развертыванием и окружением #inprogress
+- [ ] Make first tests #todo
+- [ ] Make specification #todo 
