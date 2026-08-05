@@ -1,6 +1,3 @@
-```bash
-change remote url
-git remote set-url origin <url>
-
-
-```
+- `git clone [URL]` — copy remote repo
+- `git rm -cached [file/directory]` — unstage a resource
+- `git branch -m [old-name] [new-name]` — rename a branch
