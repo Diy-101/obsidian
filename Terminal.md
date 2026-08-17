@@ -48,4 +48,7 @@ tr — capitalize every letter
 wc — показать информацию о файле (word, line, chat, byte)
 
 grep [pattern] [file] — искать pattern в файле
+
+# Получить доступ до кластера
+dp auth configure-kubeconfig --cluster-name <cluster-name> --account-name i.a.romanov@tbank.ru
 ```
