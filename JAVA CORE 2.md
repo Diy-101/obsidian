@@ -89,6 +89,53 @@ public/private Bicycle {
 ![[Screenshot 2026-08-22 at 16.48.54.png|500]]
 
 
+## Static and Non-static initialization
+```java
+public Bicycle implements BicycleInterface {
+	// fields
+	
+
+	static {
+	// this block is being executed once in runtime when the class created
+	}	
+	
+	// this block is being copied to all constractor and executed first
+	{
+	
+	}
+	
+	// constractors
+	public Bicycle (float speed, String model) {
+	// etc
+	}
+	
+	public Bicycle (String model) {
+	// etc
+	}
+}
+```
+
+## Nested class
+```java
+class Person {
+	class Man {
+	//etc
+	}
+	
+	class Woman {
+	//etc
+	}
+}
+```
+
+[About nested classes](https://dev.java/learn/classes-objects/nested-classes/)
+
+
+
+
+
+
+
 
 
 
