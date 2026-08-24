@@ -62,3 +62,21 @@ class MotorCycle implements Cycle {
 - **double** 64 bit signed
 - **boolean** — 1 bit (true — 1, false — 0)
 - **char** — 16 bit unicode character (from `\u0000 (0)` to `\nffff (65,535)`) 
+## Arrays
+Шпаргалка по командам
+```java
+Array.binarySearch()
+Array.equals()
+Array.fill()
+Array.sort()
+Array.parallelSort()
+Array.stream()
+
+```
+## Stream API
+
+
+## Var
+Локальные переменные, параметры можно объявлять как var, компилятор сам решит, что нужно подставить
+
+## Control Flow
