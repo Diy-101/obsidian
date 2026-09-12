@@ -210,3 +210,5 @@ class Person {
 ```
 
 [About nested classes](https://dev.java/learn/classes-objects/nested-classes/)
+
+## [[Stream API]]
